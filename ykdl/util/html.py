@@ -32,7 +32,8 @@ fake_headers = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate',
     'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0 Iceweasel/38.2.1'
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0 Iceweasel/38.2.1',
+    "cookie": 'dy_did=9cb262eb4e5fd753b793dd3a00021501; dy_did=9cb262eb4e5fd753b793dd3a00021501; PHPSESSID=pvbps1dveuqafagi0j98073030; acf_auth=d7fb6A090ExVkxjk5WiPo38LKSuoAQhhwHNJivOXNkezzVeIVwQoRQp3J1wGPOhLAL3hm3yM7ATJCY8jQ4mNQ3QCiWf04WPsU4Gpd7oT6Ir63g2r04KPxxM9Zb2EVQ; acf_jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU3NDI1NzEsInUiOjExMjg4ODE1LCJubiI6ImN0MTAyNiIsInN0IjoiZWFlYmMwNjlkM2JjYmYzYyIsImN0IjoiMCIsImx0IjoiNjQ2MjQ3NzgiLCJidCI6IjYiLCJ0IjoxNjE1MjEzMzcxfQ.8ul9U1VJzXCd6tC4U4byEEd8DHldPFqInAzNnsMPbyQ; acf_uid=11288815; acf_username=auto_Ax5bhBO9qw; acf_nickname=ct1026; acf_own_room=0; acf_groupid=1; acf_phonestatus=1; acf_ct=0; acf_ltkid=64624778; acf_biz=6; acf_stk=eaebc069d3bcbf3c; acf_avatar=//apic.douyucdn.cn/upload/avatar/011/28/88/15_avatar_'
 }
 
 fake_headers_without_ae = fake_headers.copy()
